@@ -35,7 +35,7 @@
 
 <br/>
 
-### 🧩 My Status
+ 🧩 My Status
 ```json
 {
   "name": "nei",
@@ -52,6 +52,6 @@
   "current_focus": "Building a Coffee System in Roblox Studio ☕"
 }
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 
