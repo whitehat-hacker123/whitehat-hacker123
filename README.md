@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>Hi there, I'm <a href="#">yippeee</a>!</h1>
-  <h3>Welcome to my creative space 🚀</h3>
+  <h1>Hi there, I'm <a href="#">whitehat_hacker</a>!</h1>
+  <h3>wsg gng</h3>
 </div>
 <a href="https://www.instagram.com/seooh48/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
@@ -12,8 +12,7 @@
 <br/>
 
 ### About Me
-안녕하세요! 저는 로블록스 스튜디오와 다양한 언어를 통해 재미있는 세상을 만들고 있는 아이입니다.  
-새로운 기술을 배우는 것을 좋아하며, 아이디어를 코드로 실현하는 과정에 몰입합니다.
+a KID
 
 ---
 
