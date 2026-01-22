@@ -35,7 +35,7 @@
 ### 🧩 My Status
 ```json
 {
-  "name": "Your Name",
+  "name": "nei",
   "interests": [
     "Game Development",
     "Web Engineering",
