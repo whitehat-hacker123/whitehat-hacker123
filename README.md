@@ -5,6 +5,9 @@
   <h1>Hi there, I'm <a href="#">yippeee</a>!</h1>
   <h3>Welcome to my creative space 🚀</h3>
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <br/>
 
