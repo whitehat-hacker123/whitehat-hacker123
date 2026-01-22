@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 <div align="left">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
